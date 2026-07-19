@@ -47,7 +47,9 @@ Your default web browser will open automatically and display the dashboard.
 
 ## 💡 Future Road Map
 . [ ] Add the ability to compare two different geographic locations on the same chart.
+
 . [ ] Implement Machine Learning models for short-term temperature forecasting.
+
 . [ ] Allow users to export processed data as CSV or Excel files.
 
 
